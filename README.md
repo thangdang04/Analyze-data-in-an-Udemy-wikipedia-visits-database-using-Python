@@ -1,1 +1,1 @@
-# Analyze-data-in-an-Udemy-wikipedia-visits-database-using-Python
+# Data analysis project on an Udemy wikipedia visits database
